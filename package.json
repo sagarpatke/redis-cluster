@@ -1,0 +1,17 @@
+{
+  "name": "redis-cluster",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "Sagar Patke <sagarpatke@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "thunk-redis": "^2.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
